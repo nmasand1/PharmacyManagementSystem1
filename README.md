@@ -6,12 +6,12 @@
    
    
 
-<div> <img src="https://drive.google.com/file/d/1D7AQxkWDsVbwM1lz-EoDF99WPz8xmy_z/view?usp=sharing" width="400" height="200" />
-<img src="https://drive.google.com/file/d/1neGHKGOWb9eb2mzykUcy60LyWIcBNN3Y/view?usp=sharing" width="400" height="200" />
+<div> <img src="https://github.com/nmasand1/PharmacyManagementSystem1/blob/main/screenshot/Admin%20Login.png" width="400" height="200" />
+<img src="https://github.com/nmasand1/PharmacyManagementSystem1/blob/main/screenshot/Doctor%20Login.png" width="400" height="200" />
 </div>
-<div> <img src="https://drive.google.com/file/d/1BOfhQPWO7Xy1ul6D0cahSxd39MEYguZf/view?usp=drive_link" width="400" height="200" />
-<img src="https://drive.google.com/file/d/1VHNgpxNGd-eXCBDTbY_ZkN0SY7t-vTEi/view?usp=drive_link" width="400" height="200" />
-    <img src="https://drive.google.com/file/d/1WovjohQWGghggdw49eYDL1Boil_LOwXD/view?usp=drive_link" width="400" height="200" />
+<div> <img src="https://github.com/nmasand1/PharmacyManagementSystem1/blob/main/screenshot/Patient%20login.png" width="400" height="200" />
+<img src="https://github.com/nmasand1/PharmacyManagementSystem1/blob/main/screenshot/Pharmacist.png" width="400" height="200" />
+    <img src="https://github.com/nmasand1/PharmacyManagementSystem1/blob/main/screenshot/Receptionist%20Login.png" width="400" height="200" />
 </div>
 
 ## Run these Commads
